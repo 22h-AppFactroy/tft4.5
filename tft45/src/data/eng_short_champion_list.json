@@ -1,0 +1,591 @@
+[
+	{
+		"name": "Aatrox",
+		"origin": [
+			"Cultist"
+		],
+		"classes": [
+			"Vanguard"
+		],
+		"cost": "4"
+	},
+	{
+		"name": "Akali",
+		"origin": [
+			"Ninja"
+		],
+		"classes": [
+			"Assassin"
+		],
+		"cost": "3"
+	},
+	{
+		"name": "Annie",
+		"origin": [
+			"Fortune"
+		],
+		"classes": [
+			"Mage"
+		],
+		"cost": "2"
+	},
+	{
+		"name": "Azir",
+		"origin": [
+			"Warlord"
+		],
+		"classes": [
+			"Keeper",
+			"Emperor"
+		],
+		"cost": "5"
+	},
+	{
+		"name": "Elise",
+		"origin": [
+			"Cultist"
+		],
+		"classes": [
+			"Keeper"
+		],
+		"cost": "1"
+	},
+	{
+		"name": "Fiora",
+		"origin": [
+			"Enlightened"
+		],
+		"classes": [
+			"Duelist"
+		],
+		"cost": "1"
+	},
+	{
+		"name": "Garen",
+		"origin": [
+			"Warlord"
+		],
+		"classes": [
+			"Vanguard"
+		],
+		"cost": "1"
+	},
+	{
+		"name": "Irelia",
+		"origin": [
+			"Enlightened",
+			"Divine"
+		],
+		"classes": [
+			"Adept"
+		],
+		"cost": "3"
+	},
+	{
+		"name": "Janna",
+		"origin": [
+			"Enlightened"
+		],
+		"classes": [
+			"Mystic"
+		],
+		"cost": "2"
+	},
+	{
+		"name": "Jarvan IV",
+		"origin": [
+			"Warlord"
+		],
+		"classes": [
+			"Keeper"
+		],
+		"cost": "2"
+	},
+	{
+		"name": "Jax",
+		"origin": [
+			"Divine"
+		],
+		"classes": [
+			"Duelist"
+		],
+		"cost": "2"
+	},
+	{
+		"name": "Kalista",
+		"origin": [
+			"Cultist"
+		],
+		"classes": [
+			"Duelist"
+		],
+		"cost": "3"
+	},
+	{
+		"name": "Katarina",
+		"origin": [
+			"Warlord",
+			"Fortune"
+		],
+		"classes": [
+			"Assassin"
+		],
+		"cost": "3"
+	},
+	{
+		"name": "Kennen",
+		"origin": [
+			"Ninja"
+		],
+		"classes": [
+			"Keeper"
+		],
+		"cost": "3"
+	},
+	{
+		"name": "Lee Sin",
+		"origin": [
+			"Divine"
+		],
+		"classes": [
+			"Duelist"
+		],
+		"cost": "5"
+	},
+	{
+		"name": "Lulu",
+		"origin": [
+			"Elderwood"
+		],
+		"classes": [
+			"Mage"
+		],
+		"cost": "2"
+	},
+	{
+		"name": "Maokai",
+		"origin": [
+			"Elderwood"
+		],
+		"classes": [
+			"Brawler"
+		],
+		"cost": "1"
+	},
+	{
+		"name": "Nidalee",
+		"origin": [
+			"Warlord"
+		],
+		"classes": [
+			"Sharpshooter"
+		],
+		"cost": "1"
+	},
+	{
+		"name": "Nunu",
+		"origin": [
+			"Elderwood"
+		],
+		"classes": [
+			"Brawler"
+		],
+		"cost": "3"
+	},
+	{
+		"name": "Sejuani",
+		"origin": [
+			"Fortune"
+		],
+		"classes": [
+			"Vanguard"
+		],
+		"cost": "4"
+	},
+	{
+		"name": "Sett",
+		"origin": [
+			"The Boss"
+		],
+		"classes": [
+			"Brawler"
+		],
+		"cost": "5"
+	},
+	{
+		"name": "Shen",
+		"origin": [
+			"Ninja"
+		],
+		"classes": [
+			"Adept",
+			"Mystic"
+		],
+		"cost": "4"
+	},
+	{
+		"name": "Tahm Kench",
+		"origin": [
+			"Fortune"
+		],
+		"classes": [
+			"Brawler"
+		],
+		"cost": "1"
+	},
+	{
+		"name": "Talon",
+		"origin": [
+			"Enlightened"
+		],
+		"classes": [
+			"Assassin"
+		],
+		"cost": "4"
+	},
+	{
+		"name": "Teemo",
+		"origin": [
+			"Spirit"
+		],
+		"classes": [
+			"Sharpshooter"
+		],
+		"cost": "2"
+	},
+	{
+		"name": "Twisted Fate",
+		"origin": [
+			"Cultist"
+		],
+		"classes": [
+			"Mage"
+		],
+		"cost": "1"
+	},
+	{
+		"name": "Veigar",
+		"origin": [
+			"Elderwood"
+		],
+		"classes": [
+			"Mage"
+		],
+		"cost": "3"
+	},
+	{
+		"name": "Vi",
+		"origin": [
+			"Warlord"
+		],
+		"classes": [
+			"Brawler"
+		],
+		"cost": "2"
+	},
+	{
+		"name": "Wukong",
+		"origin": [
+			"Divine"
+		],
+		"classes": [
+			"Vanguard"
+		],
+		"cost": "1"
+	},
+	{
+		"name": "Yasuo",
+		"origin": [
+			"Exile"
+		],
+		"classes": [
+			"Duelist"
+		],
+		"cost": "1"
+	},
+	{
+		"name": "Yone",
+		"origin": [
+			"Exile"
+		],
+		"classes": [
+			"Adept"
+		],
+		"cost": "5"
+	},
+	{
+		"name": "Yuumi",
+		"origin": [
+			"Spirit"
+		],
+		"classes": [
+			"Mystic"
+		],
+		"cost": "3"
+	},
+	{
+		"name": "Zilean",
+		"origin": [
+			"Cultist"
+		],
+		"classes": [
+			"Mystic"
+		],
+		"cost": "5"
+	},
+	{
+		"name": "Aurelion Sol",
+		"origin": [
+			"Dragonsoul"
+		],
+		"classes": [
+			"Mage"
+		],
+		"cost": "4"
+	},
+	{
+		"name": "Brand",
+		"origin": [
+			"Dragonsoul"
+		],
+		"classes": [
+			"Mage"
+		],
+		"cost": "1"
+	},
+	{
+		"name": "Braum",
+		"origin": [
+			"Dragonsoul"
+		],
+		"classes": [
+			"Vanguard"
+		],
+		"cost": "2"
+	},
+	{
+		"name": "Chogath",
+		"origin": [
+			"Fabled"
+		],
+		"classes": [
+			"Brawler"
+		],
+		"cost": "4"
+	},
+	{
+		"name": "Darius",
+		"origin": [
+			"Fortune"
+		],
+		"classes": [
+			"Slayer"
+		],
+		"cost": "3"
+	},
+	{
+		"name": "Diana",
+		"origin": [
+			"Spirit"
+		],
+		"classes": [
+			"Assassin"
+		],
+		"cost": "1"
+	},
+	{
+		"name": "Kayle",
+		"origin": [
+			"Divine"
+		],
+		"classes": [
+			"Executioner"
+		],
+		"cost": "4"
+	},
+	{
+		"name": "Nasus",
+		"origin": [
+			"Divine"
+		],
+		"classes": [
+			"Syphoner"
+		],
+		"cost": "1"
+	},
+	{
+		"name": "Nautilus",
+		"origin": [
+			"Fabled"
+		],
+		"classes": [
+			"Vanguard"
+		],
+		"cost": "2"
+	},
+	{
+		"name": "Neeko",
+		"origin": [
+			"Fabled"
+		],
+		"classes": [
+			"Mystic"
+		],
+		"cost": "3"
+	},
+	{
+		"name": "Olaf",
+		"origin": [
+			"Dragonsoul"
+		],
+		"classes": [
+			"Slayer"
+		],
+		"cost": "4"
+	},
+	{
+		"name": "Ornn",
+		"origin": [
+			"Elderwood"
+		],
+		"classes": [
+			"Vanguard",
+			"Blacksmith"
+		],
+		"cost": "5"
+	},
+	{
+		"name": "Rakan",
+		"origin": [
+			"Elderwood"
+		],
+		"classes": [
+			"Keeper"
+		],
+		"cost": "2"
+	},
+	{
+		"name": "Samira",
+		"origin": [
+			"Daredevil"
+		],
+		"classes": [
+			"Sharpshooter",
+			"Slayer"
+		],
+		"cost": "5"
+	},
+	{
+		"name": "Shyvana",
+		"origin": [
+			"Dragonsoul"
+		],
+		"classes": [
+			"Brawler"
+		],
+		"cost": "3"
+	},
+	{
+		"name": "Sivir",
+		"origin": [
+			"Cultist"
+		],
+		"classes": [
+			"Sharpshooter"
+		],
+		"cost": "3"
+	},
+	{
+		"name": "Swain",
+		"origin": [
+			"Dragonsoul"
+		],
+		"classes": [
+			"Syphoner"
+		],
+		"cost": "5"
+	},
+	{
+		"name": "Tristana",
+		"origin": [
+			"Dragonsoul"
+		],
+		"classes": [
+			"Sharpshooter"
+		],
+		"cost": "1"
+	},
+	{
+		"name": "Tryndamere",
+		"origin": [
+			"Warlord"
+		],
+		"classes": [
+			"Duelist",
+			"Slayer"
+		],
+		"cost": "4"
+	},
+	{
+		"name": "Vladimir",
+		"origin": [
+			"Cultist"
+		],
+		"classes": [
+			"Syphoner"
+		],
+		"cost": "2"
+	},
+	{
+		"name": "Xayah",
+		"origin": [
+			"Elderwood"
+		],
+		"classes": [
+			"Keeper",
+			"Executioner"
+		],
+		"cost": "4"
+	},
+	{
+		"name": "Zed",
+		"origin": [
+			"Ninja"
+		],
+		"classes": [
+			"Slayer"
+		],
+		"cost": "2"
+	},
+	{
+		"name": "Morgana",
+		"origin": [
+			"Enlightened"
+		],
+		"classes": [
+			"Syphoner"
+		],
+		"cost": "4"
+	},
+	{
+		"name": "Kindred",
+		"origin": [
+			"Spirit"
+		],
+		"classes": [
+			"Executioner"
+		],
+		"cost": "3"
+	},
+	{
+		"name": "Pyke",
+		"origin": [
+			"Cultist"
+		],
+		"classes": [
+			"Assassin",
+			"Slayer"
+		],
+		"cost": "2"
+	}
+]

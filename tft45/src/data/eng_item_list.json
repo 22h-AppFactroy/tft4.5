@@ -1,0 +1,604 @@
+[
+	{
+		"name": "B.F. Sword",
+		"bonus": "15 Attack damage.",
+		"combine_info": [
+			"Bloodthirster",
+			"Giant Slayer",
+			"Guardian Angel",
+			"Hextech Gunblade",
+			"Infinity Edge",
+			"Deathblade",
+			"Spear of Shojin",
+			"Sword of the Divine",
+			"Zeke's Herald"
+		],
+		"recipe_info": [],
+		"type": "BASE"
+	},
+	{
+		"name": "Chain Vest",
+		"bonus": "25 Armor.",
+		"combine_info": [
+			"Bramble Vest",
+			"Frozen Heart",
+			"Gargoyle Stoneplate",
+			"Guardian Angel",
+			"Locket of the Iron Solari",
+			"Shroud of Stillness",
+			"Sunfire Cape",
+			"Titan's Resolve",
+			"Vanguard's Cuirass"
+		],
+		"recipe_info": [],
+		"type": "BASE"
+	},
+	{
+		"name": "Giant's Belt",
+		"bonus": "200 Health.",
+		"combine_info": [
+			"Morellonomicon",
+			"Redemption",
+			"Sunfire Cape",
+			"Trap Claw",
+			"Warlord's Banner",
+			"Warmog's Armor",
+			"Zeke's Herald",
+			"Zephyr",
+			"Zz'Rot Portal"
+		],
+		"recipe_info": [],
+		"type": "BASE"
+	},
+	{
+		"name": "Needlessly Large Rod",
+		"bonus": "15 Spell power.",
+		"combine_info": [
+			"Guinsoo's Rageblade",
+			"Hextech Gunblade",
+			"Ionic Spark",
+			"Jeweled Gauntlet",
+			"Locket of the Iron Solari",
+			"Luden's Echo",
+			"Morellonomicon",
+			"Rabadon's Deathcap"
+		],
+		"recipe_info": [],
+		"type": "BASE"
+	},
+	{
+		"name": "Negatron Cloak",
+		"bonus": "25 Magic resist.",
+		"combine_info": [
+			"Bloodthirster",
+			"Chalice of Power",
+			"Dragon's Claw",
+			"Elderwood Heirloom",
+			"Gargoyle Stoneplate",
+			"Ionic Spark",
+			"Quicksilver",
+			"Runaan's Hurricane",
+			"Zephyr"
+		],
+		"recipe_info": [],
+		"type": "BASE"
+	},
+	{
+		"name": "Recurve Bow",
+		"bonus": "20% Attack speed.",
+		"combine_info": [
+			"Duelist's Zeal",
+			"Giant Slayer",
+			"Guinsoo's Rageblade",
+			"Last Whisper",
+			"Rapid Firecannon",
+			"Runaan's Hurricane",
+			"Statikk Shiv",
+			"Titan's Resolve",
+			"Zz'Rot Portal"
+		],
+		"recipe_info": [],
+		"type": "BASE"
+	},
+	{
+		"name": "Sparring Gloves",
+		"bonus": "10% Crit and +10% Dodge chance.",
+		"combine_info": [
+			"Hand of Justice",
+			"Infinity Edge",
+			"Jeweled Gauntlet",
+			"Last Whisper",
+			"Quicksilver",
+			"Shroud of Stillness",
+			"Thief's Gloves",
+			"Trap Claw",
+			"Youmuu's Ghostblade"
+		],
+		"recipe_info": [],
+		"type": "BASE"
+	},
+	{
+		"name": "Spatula",
+		"bonus": "It must do something...",
+		"combine_info": [
+			"Duelist's Zeal",
+			"Elderwood Heirloom",
+			"Force of Nature",
+			"Mage's Cap",
+			"Spirit of the Dragon",
+			"Sword of the Divine",
+			"Vanguard's Cuirass",
+			"Warlord's Banner",
+			"Youmuu's Ghostblade"
+		],
+		"recipe_info": [],
+		"type": "BASE"
+	},
+	{
+		"name": "Tear of the Goddess",
+		"bonus": "15 Mana.",
+		"combine_info": [
+			"Blue Buff",
+			"Chalice of Power",
+			"Frozen Heart",
+			"Hand of Justice",
+			"Luden's Echo",
+			"Mage's Cap",
+			"Redemption",
+			"Spear of Shojin",
+			"Statikk Shiv"
+		],
+		"recipe_info": [],
+		"type": "BASE"
+	},
+	{
+		"name": "Bloodthirster",
+		"bonus": "Basic Attacks heal the holder for 40% of the damage dealt.",
+		"combine_info": [],
+		"recipe_info": [
+			"B.F. Sword",
+			"Negatron Cloak"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Blue Buff",
+		"bonus": "[Unique] After casting a spell, set your mana to 20.",
+		"combine_info": [],
+		"recipe_info": [
+			"Tear of the Goddess",
+			"Tear of the Goddess"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Bramble Vest",
+		"bonus": "Negates bonus damage from incoming critical hits. On being hit by a Basic Attack, deal 80/100/150★ magic damage to all nearby enemies.",
+		"combine_info": [],
+		"recipe_info": [
+			"Chain Vest",
+			"Chain Vest"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Chalice of Power",
+		"bonus": "When combat begins, the wearer and all allies within 1 hex in the same row gain 35 Spell Power for the rest of combat.",
+		"combine_info": [],
+		"recipe_info": [
+			"Negatron Cloak",
+			"Tear of the Goddess"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Deathblade",
+		"bonus": "Contributing to a kill grants the holder +20 Attack Damage for the remainder of combat. This effect can stack any number of times (starting at 1).",
+		"combine_info": [],
+		"recipe_info": [
+			"B.F. Sword",
+			"B.F. Sword"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Dragon's Claw",
+		"bonus": "Reduces incoming magic damage by 60%.",
+		"combine_info": [],
+		"recipe_info": [
+			"Negatron Cloak",
+			"Negatron Cloak"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Duelist's Zeal",
+		"bonus": "[Unique] The holder gains the Duelist trait.",
+		"combine_info": [],
+		"recipe_info": [
+			"Spatula",
+			"Recurve Bow"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Elderwood Heirloom",
+		"bonus": "[Unique] The holder gains the Elderwood trait.",
+		"combine_info": [],
+		"recipe_info": [
+			"Spatula",
+			"Negatron Cloak"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Force of Nature",
+		"bonus": "Wearer's team gains +1 maximum team size.",
+		"combine_info": [],
+		"recipe_info": [
+			"Spatula",
+			"Spatula"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Frozen Heart",
+		"bonus": "Reduces the Attack Speed of nearby enemies by 50%. Each Frozen Heart a champion carries beyond the first increases the radius of this effect.",
+		"combine_info": [],
+		"recipe_info": [
+			"Chain Vest",
+			"Tear of the Goddess"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Gargoyle Stoneplate",
+		"bonus": "The holder gains 15 Armor and 15 Magic Resist for each enemy targeting them.",
+		"combine_info": [],
+		"recipe_info": [
+			"Chain Vest",
+			"Negatron Cloak"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Giant Slayer",
+		"bonus": "The holder's spells and basic attacks do 10% bonus damage. If the target has more than 1750 maximum Health, the bonus increases to 90%.",
+		"combine_info": [],
+		"recipe_info": [
+			"B.F. Sword",
+			"Recurve Bow"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Guardian Angel",
+		"bonus": "Prevents the wearer's first death, placing them in stasis instead. After 2 seconds, they return with 400 Health and shed all negative effects.",
+		"combine_info": [],
+		"recipe_info": [
+			"B.F. Sword",
+			"Chain Vest"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Guinsoo's Rageblade",
+		"bonus": "Basic Attacks grant +6% bonus Attack Speed for the rest of combat. This effect can stack any number of times.",
+		"combine_info": [],
+		"recipe_info": [
+			"Needlessly Large Rod",
+			"Recurve Bow"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Hand of Justice",
+		"bonus": "At the beginning of each planning phase, the wearer gains one of the following: Basic attacks and spells deal +45% Damage or Basic attacks and spells heal for 45% of damage dealt.",
+		"combine_info": [],
+		"recipe_info": [
+			"Tear of the Goddess",
+			"Sparring Gloves"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Hextech Gunblade",
+		"bonus": "The holder's spells heal them for 33% of the damage dealt. Excess healing fuels a shield that protects the holder against up to 400 damage.",
+		"combine_info": [],
+		"recipe_info": [
+			"B.F. Sword",
+			"Needlessly Large Rod"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Infinity Edge",
+		"bonus": "[Unique] Grants 75% Critical Strike Chance (including components). Each point of Critical Strike Chance above 100% become +1% Critical Strike Damage.",
+		"combine_info": [],
+		"recipe_info": [
+			"B.F. Sword",
+			"Sparring Gloves"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Ionic Spark",
+		"bonus": "Enemies within 2 hexes have their Magic Resist reduced by 40% (does not stack). When they cast a spell, they are zapped taking magic damage equal to 225% of their max Mana.",
+		"combine_info": [],
+		"recipe_info": [
+			"Needlessly Large Rod",
+			"Negatron Cloak"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Jeweled Gauntlet",
+		"bonus": "The holder's spells can inflict critical hits. Gain 40% Critical Strike Damage.",
+		"combine_info": [],
+		"recipe_info": [
+			"Needlessly Large Rod",
+			"Sparring Gloves"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Last Whisper",
+		"bonus": "[Unique] When the wearer inflicts a critical hit, the target's Armor is reduced by 80% for 3 seconds. This effect does not stack.",
+		"combine_info": [],
+		"recipe_info": [
+			"Recurve Bow",
+			"Sparring Gloves"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Locket of the Iron Solari",
+		"bonus": "When combat begins, the wearer and all allies within 2 hexes in the same row gain a shield that blocks 300/375/500/800★ damage for 8 seconds.",
+		"combine_info": [],
+		"recipe_info": [
+			"Chain Vest",
+			"Needlessly Large Rod"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Luden's Echo",
+		"bonus": "When the holder casts their spell, the first target dealt magic damage and up to 3 nearby enemies are dealt an additional 180 magic damage, and 180 bonus damage if they are crowd-controlled.",
+		"combine_info": [],
+		"recipe_info": [
+			"Needlessly Large Rod",
+			"Tear of the Goddess"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Mage's Cap",
+		"bonus": "[Unique] The holder gains the Mage trait.",
+		"combine_info": [],
+		"recipe_info": [
+			"Spatula",
+			"Tear of the Goddess"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Morellonomicon",
+		"bonus": "[Unique] When the holder deals damage with their spell, they burn the target, dealing 25% of the target's maximum Health as true damage over 10 seconds and reducing healing by 50% for the duration of the burn.",
+		"combine_info": [],
+		"recipe_info": [
+			"Giant's Belt",
+			"Needlessly Large Rod"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Quicksilver",
+		"bonus": "[Unique] The wearer is immune to crowd control for the first 10 seconds of combat.",
+		"combine_info": [],
+		"recipe_info": [
+			"Negatron Cloak",
+			"Sparring Gloves"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Rabadon's Deathcap",
+		"bonus": "The holder gains 50 additional Spell Power.",
+		"combine_info": [],
+		"recipe_info": [
+			"Needlessly Large Rod",
+			"Needlessly Large Rod"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Rapid Firecannon",
+		"bonus": "The holder gains 200% Attack Range, and their Basic Attacks can't miss.",
+		"combine_info": [],
+		"recipe_info": [
+			"Recurve Bow",
+			"Recurve Bow"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Redemption",
+		"bonus": "When the wearer dies, allies are healed for 800 Health.",
+		"combine_info": [],
+		"recipe_info": [
+			"Giant's Belt",
+			"Tear of the Goddess"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Runaan's Hurricane",
+		"bonus": "Basic Attacks fire a bolt at another nearby enemy, dealing 90% of the wearer's Attack Damage and applying on-hit effects. These bolts can critically strike.",
+		"combine_info": [],
+		"recipe_info": [
+			"Negatron Cloak",
+			"Recurve Bow"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Shroud of Stillness",
+		"bonus": "[Unique] When combat begins, shoots a beam straight ahead that delays affected enemies' first spellcast, increasing their max Mana by 33% until they cast.",
+		"combine_info": [],
+		"recipe_info": [
+			"Chain Vest",
+			"Sparring Gloves"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Spear of Shojin",
+		"bonus": "The holder's basic attacks restore 5 Mana on-hit.",
+		"combine_info": [],
+		"recipe_info": [
+			"B.F. Sword",
+			"Tear of the Goddess"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Spirit of the Dragon",
+		"bonus": "[Unique] The holder gains the Dragonsoul trait.",
+		"combine_info": [],
+		"recipe_info": [
+			"Spatula",
+			"Needlessly Large Rod"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Statikk Shiv",
+		"bonus": "Every third Basic Attack from the wearer deals 80 magic damage to 3/4/5/6★ enemies, and 240 true damage if they are shielded.",
+		"combine_info": [],
+		"recipe_info": [
+			"Recurve Bow",
+			"Tear of the Goddess"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Sunfire Cape",
+		"bonus": "[Unique] At start of combat, and every 2 seconds thereafter, a random enemy within 2 hexes is burned for 25% of their maximum health over 10 seconds. Any healing they receive is reduced by 50%.",
+		"combine_info": [],
+		"recipe_info": [
+			"Chain Vest",
+			"Giant's Belt"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Sword of the Divine",
+		"bonus": "[Unique] The holder gains the Divine trait.",
+		"combine_info": [],
+		"recipe_info": [
+			"Spatula",
+			"B.F. Sword"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Thief's Gloves",
+		"bonus": "Each planning phase, fetch two temporary items, quality based upon your player level. Consumes three item slots.",
+		"combine_info": [],
+		"recipe_info": [
+			"Sparring Gloves",
+			"Sparring Gloves"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Titan's Resolve",
+		"bonus": "When the wearer takes damage or inflicts a critical hit, they gain a 1% stacking damage bonus. Stacks up to 25 times, at which point the wearer gains 25 Armor and Magic Resistance, and increases in size.",
+		"combine_info": [],
+		"recipe_info": [
+			"Chain Vest",
+			"Recurve Bow"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Trap Claw",
+		"bonus": "Blocks the first enemy spell that hits the wearer, and stuns the spell's caster for 4 seconds.",
+		"combine_info": [],
+		"recipe_info": [
+			"Giant's Belt",
+			"Sparring Gloves"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Vanguard's Cuirass",
+		"bonus": "[Unique] The holder gains the Vanguard trait.",
+		"combine_info": [],
+		"recipe_info": [
+			"Spatula",
+			"Chain Vest"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Warlord's Banner",
+		"bonus": "[Unique] The holder gains the Warlord trait.",
+		"combine_info": [],
+		"recipe_info": [
+			"Spatula",
+			"Giant's Belt"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Warmog's Armor",
+		"bonus": "Grants 1000 bonus Health (including components).",
+		"combine_info": [],
+		"recipe_info": [
+			"Giant's Belt",
+			"Giant's Belt"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Youmuu's Ghostblade",
+		"bonus": "[Unique] The holder gains the Assassin trait.",
+		"combine_info": [],
+		"recipe_info": [
+			"Spatula",
+			"Sparring Gloves"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Zeke's Herald",
+		"bonus": "When combat begins, the wearer and all allies within 1 hexes in the same row gain 35% bonus Attack Speed for the rest of combat.",
+		"combine_info": [],
+		"recipe_info": [
+			"B.F. Sword",
+			"Giant's Belt"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Zephyr",
+		"bonus": "[Unique] When combat begins, the wearer summons a whirlwind on the opposite side of the arena that removes the closest enemy from combat for 5 seconds.",
+		"combine_info": [],
+		"recipe_info": [
+			"Giant's Belt",
+			"Negatron Cloak"
+		],
+		"type": "COMBINED"
+	},
+	{
+		"name": "Zz'Rot Portal",
+		"bonus": "At the start of combat, the wearer taunts all nearby enemies for 1 second. When the wearer dies, a Construct with 1500/2250/3000★ Health arises to continue the fight.",
+		"combine_info": [],
+		"recipe_info": [
+			"Giant's Belt",
+			"Recurve Bow"
+		],
+		"type": "COMBINED"
+	}
+]

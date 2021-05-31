@@ -1,0 +1,312 @@
+[
+	{
+		"name": "Cultist",
+		"bonus": {
+			"header": "Once your team loses 50% of their health, Galio is summoned, slamming into the largest cluster of enemies and knocking them up.",
+			"bonus_items": [
+				{
+					"count": "3",
+					"value": "Tyrant Galio"
+				},
+				{
+					"count": "6",
+					"value": "Demon Lord Galio"
+				},
+				{
+					"count": "9",
+					"value": "Supreme Overlord Galio"
+				}
+			]
+		},
+		"units": [
+			"Aatrox",
+			"Elise",
+			"Kalista",
+			"Twisted Fate",
+			"Zilean",
+			"Sivir",
+			"Vladimir",
+			"Pyke"
+		]
+	},
+	{
+		"name": "Divine",
+		"bonus": {
+			"header": "Upon attacking 6 times or dropping below 50% health, Divine units remove all crowd control and ascend, taking 45% reduced damage and dealing 45% bonus true damage for the duration of the ascension.",
+			"bonus_items": [
+				{
+					"count": "2",
+					"value": "3 seconds"
+				},
+				{
+					"count": "4",
+					"value": "6 seconds"
+				},
+				{
+					"count": "6",
+					"value": "9 seconds"
+				},
+				{
+					"count": "8",
+					"value": "15 seconds"
+				}
+			]
+		},
+		"units": [
+			"Irelia",
+			"Jax",
+			"Lee Sin",
+			"Wukong",
+			"Kayle",
+			"Nasus"
+		]
+	},
+	{
+		"name": "Elderwood",
+		"bonus": {
+			"header": "Every two seconds all Elderwood champions grow, gaining bonus stats. This effect stacks up to five times.",
+			"bonus_items": [
+				{
+					"count": "3",
+					"value": "20 Armor and Magic Resist, 5 Attack Damage and Spell Power"
+				},
+				{
+					"count": "6",
+					"value": "30 Armor and Magic Resist, 10 Attack Damage and Spell Power"
+				},
+				{
+					"count": "9",
+					"value": "40 Armor and Magic Resist, 20 Attack Damage and Spell Power"
+				}
+			]
+		},
+		"units": [
+			"Lulu",
+			"Maokai",
+			"Nunu",
+			"Veigar",
+			"Ornn",
+			"Rakan",
+			"Xayah"
+		]
+	},
+	{
+		"name": "Enlightened",
+		"bonus": {
+			"header": "Enlightened champions generate more Mana.",
+			"bonus_items": [
+				{
+					"count": "2",
+					"value": "40% Additional Mana"
+				},
+				{
+					"count": "4",
+					"value": "70% Additional Mana"
+				},
+				{
+					"count": "6",
+					"value": "100% Additional Mana"
+				}
+			]
+		},
+		"units": [
+			"Fiora",
+			"Irelia",
+			"Janna",
+			"Talon",
+			"Morgana"
+		]
+	},
+	{
+		"name": "Exile",
+		"bonus": {
+			"header": "If an Exile has no adjacent allies at the start of combat, they gain:",
+			"bonus_items": [
+				{
+					"count": "1",
+					"value": "Shield equal to 50% of their maximum health"
+				},
+				{
+					"count": "2",
+					"value": "And 80% Lifesteal"
+				}
+			]
+		},
+		"units": [
+			"Yasuo",
+			"Yone"
+		]
+	},
+	{
+		"name": "Fortune",
+		"bonus": {
+			"header": "",
+			"bonus_items": [
+				{
+					"count": "3",
+					"value": "Winning combat against a player will give bonus orbs. The longer you've gone without an orb, the bigger the payout!"
+				},
+				{
+					"count": "6",
+					"value": "Wins give an extra bonus orb with rare loot!"
+				}
+			]
+		},
+		"units": [
+			"Annie",
+			"Katarina",
+			"Sejuani",
+			"Tahm Kench",
+			"Darius"
+		]
+	},
+	{
+		"name": "Ninja",
+		"bonus": {
+			"header": "Ninjas gain bonus Attack Damage and Spell Power. This effect is only active when you have exactly 1 or 4 unique Ninjas.",
+			"bonus_items": [
+				{
+					"count": "1",
+					"value": "50 Attack Damage and Spell Power"
+				},
+				{
+					"count": "4",
+					"value": "140 Attack Damage and Spell Power"
+				}
+			]
+		},
+		"units": [
+			"Akali",
+			"Kennen",
+			"Shen",
+			"Zed"
+		]
+	},
+	{
+		"name": "Spirit",
+		"bonus": {
+			"header": "The first time a Spirit casts their spell, all allies gain Attack Speed based on the spell's mana cost.",
+			"bonus_items": [
+				{
+					"count": "2",
+					"value": "35% of Mana Cost"
+				},
+				{
+					"count": "4",
+					"value": "70% of Mana Cost"
+				}
+			]
+		},
+		"units": [
+			"Teemo",
+			"Yuumi",
+			"Diana",
+			"Kindred"
+		]
+	},
+	{
+		"name": "The Boss",
+		"bonus": {
+			"header": "",
+			"bonus_items": [
+				{
+					"count": "1",
+					"value": "When The Boss first drops below 40% health, he removes himself from combat to start doing sit-ups. Each sit-up restores 15% of his maximum health and gives him 40% Attack and Movement Speed. If he reaches full health he returns to combat Pumped Up, converting his basic attack and spell damage to True Damage. If all of his allies die, he will immediately return to combat."
+				}
+			]
+		},
+		"units": [
+			"Sett"
+		]
+	},
+	{
+		"name": "Warlord",
+		"bonus": {
+			"header": "Warlords have bonus Health and Spell Power. Each victorious combat they've participated in increases this bonus by 10%, stacking up to 5 times.",
+			"bonus_items": [
+				{
+					"count": "3",
+					"value": "200 HP and 20 Spell Power"
+				},
+				{
+					"count": "6",
+					"value": "450 HP and 40 Spell Power"
+				},
+				{
+					"count": "9",
+					"value": "700 HP and 70 Spell Power"
+				}
+			]
+		},
+		"units": [
+			"Azir",
+			"Garen",
+			"Jarvan IV",
+			"Katarina",
+			"Nidalee",
+			"Vi",
+			"Tryndamere"
+		]
+	},
+	{
+		"name": "Daredevil",
+		"bonus": {
+			"header": "",
+			"bonus_items": [
+				{
+					"count": "1",
+					"value": "Daredevils seek the thrill of battle, dashing after every other attack. After every dash, they shield themselves for 20% of their max health and their next attack fires 2 shots, gaining Style. At max Style, they cast their spell. Base Style rank increases star level."
+				}
+			]
+		},
+		"units": [
+			"Samira"
+		]
+	},
+	{
+		"name": "Dragonsoul",
+		"bonus": {
+			"header": "The first Dragonsoul to take damage in combat recieves the Dragon's Blessing. While blessed, the unit gains bonus stats, and every 5th attack fires a Dragonsoul blast, dealing bonus magic damage.",
+			"bonus_items": [
+				{
+					"count": "3",
+					"value": "40 AS & AP; Blast deals 40% Max Health"
+				},
+				{
+					"count": "6",
+					"value": "80 AS & AP; Blast deals 80% Max Health"
+				},
+				{
+					"count": "9",
+					"value": "200 AS & AP; Blast deals 200% Max Health"
+				}
+			]
+		},
+		"units": [
+			"Aurelion Sol",
+			"Brand",
+			"Braum",
+			"Olaf",
+			"Shyvana",
+			"Swain",
+			"Tristana"
+		]
+	},
+	{
+		"name": "Fabled",
+		"bonus": {
+			"header": "",
+			"bonus_items": [
+				{
+					"count": "3",
+					"value": "Fabled champions' spells are empowered from tales of their past valor."
+				}
+			]
+		},
+		"units": [
+			"Chogath",
+			"Nautilus",
+			"Neeko"
+		]
+	}
+]

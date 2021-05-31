@@ -1,0 +1,3927 @@
+[
+	{
+		"name": "Aatrox",
+		"origin": [
+			"Cultist"
+		],
+		"classes": [
+			"Vanguard"
+		],
+		"cost": "4",
+		"item": [
+			"Gargoyle Stoneplate",
+			"Sunfire Cape",
+			"Warmog's Armor"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 4"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 900 / 1620 / 2916"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 150"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 75"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 70"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 40"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 39 / 70 / 126"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 60 / 108 / 194"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.65"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Infernal Chains",
+			"type": "Active",
+			"bonus": "After a brief delay, Aatrox pulls in the farthest enemies then slams the ground, dealing magic damage to all adjacent enemies.",
+			"ability_list": {
+				"label": "Number of Enemies:",
+				"value": "Number of Enemies: 2 / 2 / 5"
+			}
+		}
+	},
+	{
+		"name": "Akali",
+		"origin": [
+			"Ninja"
+		],
+		"classes": [
+			"Assassin"
+		],
+		"cost": "3",
+		"item": [
+			"Blue Buff",
+			"Infinity Edge",
+			"Rapid Firecannon"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 3"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 650 / 1170 / 2106"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 20"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 20"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 47 / 84 / 151"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 55 / 99 / 178"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.85"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Five-Point Strike",
+			"type": "Active",
+			"bonus": "Akali throws kunai at her target, dealing magic damage.",
+			"ability_list": {
+				"label": "Damage:",
+				"value": "Damage: 175 / 250 / 400"
+			}
+		}
+	},
+	{
+		"name": "Annie",
+		"origin": [
+			"Fortune"
+		],
+		"classes": [
+			"Mage"
+		],
+		"cost": "2",
+		"item": [
+			"Gargoyle Stoneplate",
+			"Ionic Spark",
+			"Sunfire Cape"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 2"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 750 / 1350 / 2430"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 65"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 40"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 40"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 27 / 49 / 87"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 45 / 81 / 146"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.6"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 2"
+			}
+		],
+		"ability": {
+			"name": "Shield-Blast",
+			"type": "Active",
+			"bonus": "Annie blasts a cone of fire dealing magic damage to enemies in front of her, then creates a shield for herself for a few seconds.",
+			"ability_list": {
+				"label": "Shield amount:",
+				"value": "Shield amount: 500 / 700 / 900"
+			}
+		}
+	},
+	{
+		"name": "Azir",
+		"origin": [
+			"Warlord"
+		],
+		"classes": [
+			"Keeper",
+			"Emperor"
+		],
+		"cost": "5",
+		"item": [
+			"Guardian Angel",
+			"Guinsoo's Rageblade",
+			"Spear of Shojin"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 5"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 950 / 1710 / 3078"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 150"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 75"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 30"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 60 / 107 / 193"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 70 / 126 / 227"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.85"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 4"
+			}
+		],
+		"ability": {
+			"name": "Warlord's Divide",
+			"type": "Active",
+			"bonus": "Azir charges forward with a wall of soldiers, knocking back enemies hit and dealing magic damage. After their charge, the wall of soldiers remains in place in front of Azir for 3 seconds as impassable terrain. Any spearmen from the General trait will accompany Azir for the charge and position themselves to protect him afterwards.",
+			"ability_list": {
+				"label": "Wall Damage:",
+				"value": "Wall Damage: 200 / 350 / 8888"
+			}
+		}
+	},
+	{
+		"name": "Elise",
+		"origin": [
+			"Cultist"
+		],
+		"classes": [
+			"Keeper"
+		],
+		"cost": "1",
+		"item": [
+			"Dragon's Claw",
+			"Gargoyle Stoneplate",
+			"Warmog's Armor"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 1"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 600 / 1080 / 1944"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 75"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 30"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 29 / 53 / 95"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 45 / 81 / 146"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.65"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 2"
+			}
+		],
+		"ability": {
+			"name": "Spider Form",
+			"type": "Active",
+			"bonus": "Elise transforms into a spider, gaining bonus maximum health and causing her attacks to restore health.",
+			"ability_list": {
+				"label": "Health on Hit:",
+				"value": "Health on Hit: 40 / 80 / 160"
+			}
+		}
+	},
+	{
+		"name": "Fiora",
+		"origin": [
+			"Enlightened"
+		],
+		"classes": [
+			"Duelist"
+		],
+		"cost": "1",
+		"item": [
+			"Dragon's Claw",
+			"Guardian Angel",
+			"Hand of Justice"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 1"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 600 / 1080 / 1944"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 75"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 35"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 30"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 34 / 61 / 109"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 45 / 81 / 146"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.75"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Riposte",
+			"type": "Active",
+			"bonus": "Fiora enters a defensive stance for 1.5 seconds, becoming immune to damage and enemy spell effects. As she exits this stance, she ripostes, dealing magic damage to a nearby enemy and stunning them for a few seconds.",
+			"ability_list": {
+				"label": "Stun duration:",
+				"value": "Stun duration: 1.5 / 2 / 3"
+			}
+		}
+	},
+	{
+		"name": "Garen",
+		"origin": [
+			"Warlord"
+		],
+		"classes": [
+			"Vanguard"
+		],
+		"cost": "1",
+		"item": [
+			"Guardian Angel",
+			"Ionic Spark",
+			"Morellonomicon"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 1"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 600 / 1080 / 1944"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 100"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 50"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 35"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 30 / 54 / 97"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 50 / 90 / 162"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.6"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Judgment",
+			"type": "Active",
+			"bonus": "Garen spins his sword for 4 seconds, reducing incoming magic damage by 80% and dealing magic damage to nearby enemies over the duration.",
+			"ability_list": {
+				"label": "Damage:",
+				"value": "Damage: 450 / 675 / 1125"
+			}
+		}
+	},
+	{
+		"name": "Irelia",
+		"origin": [
+			"Enlightened",
+			"Divine"
+		],
+		"classes": [
+			"Adept"
+		],
+		"cost": "3",
+		"item": [
+			"Dragon's Claw",
+			"Guardian Angel",
+			"Hand of Justice"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 3"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 800 / 1440 / 2592"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 100"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 50"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 40"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 40"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 36 / 64 / 116"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 55 / 99 / 178"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.65"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Bladestorm",
+			"type": "Active",
+			"bonus": "Irelia launches a barrage of blades infront of her, dealing magic damage and applying on-hit effects. Enemies hit are disarmed for a few seconds.",
+			"ability_list": {
+				"label": "Disarm Duration:",
+				"value": "Disarm Duration: 2.5 / 3 / 3.5"
+			}
+		}
+	},
+	{
+		"name": "Janna",
+		"origin": [
+			"Enlightened"
+		],
+		"classes": [
+			"Mystic"
+		],
+		"cost": "2",
+		"item": [
+			"Blue Buff",
+			"Spear of Shojin",
+			"Zephyr"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 2"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 550 / 990 / 1782"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 60"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 30"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 20"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 24 / 43 / 78"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 40 / 72 / 130"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.6"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 4"
+			}
+		],
+		"ability": {
+			"name": "Eye of the Storm",
+			"type": "Active",
+			"bonus": "Janna shields the lowest health allies for 4 seconds. Shielded allies gain Attack Damage for the duration.",
+			"ability_list": {
+				"label": "Bonus Attack Damage:",
+				"value": "Bonus Attack Damage: 20 / 30 / 60"
+			}
+		}
+	},
+	{
+		"name": "Jarvan IV",
+		"origin": [
+			"Warlord"
+		],
+		"classes": [
+			"Keeper"
+		],
+		"cost": "2",
+		"item": [
+			"Guardian Angel",
+			"Ionic Spark",
+			"Morellonomicon"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 2"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 600 / 1080 / 1944"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 100"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 50"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 45"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 30"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 36 / 65 / 117"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 60 / 108 / 194"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.6"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Dragon Strike",
+			"type": "Active",
+			"bonus": "Jarvan strikes the furthest target within 3 hexes with his spear and pulls himself towards them, dealing magic damage to units he passes through and knocking them up and stunning them for 1 second.",
+			"ability_list": {
+				"label": "Damage:",
+				"value": "Damage: 175 / 250 / 750"
+			}
+		}
+	},
+	{
+		"name": "Jax",
+		"origin": [
+			"Divine"
+		],
+		"classes": [
+			"Duelist"
+		],
+		"cost": "2",
+		"item": [
+			"Dragon's Claw",
+			"Gargoyle Stoneplate",
+			"Sunfire Cape"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 2"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 750 / 1350 / 2430"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 110"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 60"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 40"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 30"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 45 / 81 / 146"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 60 / 108 / 194"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.75"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Counter Strike",
+			"type": "Active",
+			"bonus": "Jax dodges all incoming attacks for 2 seconds, then strikes all nearby units, dealing magic damage and stunning them for 1.5 seconds.",
+			"ability_list": {
+				"label": "Damage:",
+				"value": "Damage: 150 / 250 / 450"
+			}
+		}
+	},
+	{
+		"name": "Kalista",
+		"origin": [
+			"Cultist"
+		],
+		"classes": [
+			"Duelist"
+		],
+		"cost": "3",
+		"item": [
+			"Guinsoo's Rageblade",
+			"Rapid Firecannon",
+			"Runaan's Hurricane"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 3"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 650 / 1170 / 2106"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 0"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 20"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 59 / 105 / 190"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 65 / 117 / 211"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.9"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 3"
+			}
+		],
+		"ability": {
+			"name": "Rend",
+			"type": "Passive",
+			"bonus": "Passive: Kalista's spears remain in her target, each one capable of dealing a percent of the target's max health as magic damage when she removes them. Kalista will remove the spears when doing so would kill the target.",
+			"ability_list": {
+				"label": "Maximum Health Damage:",
+				"value": "Maximum Health Damage: 4% / 6% / 9%"
+			}
+		}
+	},
+	{
+		"name": "Katarina",
+		"origin": [
+			"Warlord",
+			"Fortune"
+		],
+		"classes": [
+			"Assassin"
+		],
+		"cost": "3",
+		"item": [
+			"Guardian Angel",
+			"Hextech Gunblade",
+			"Quicksilver"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 3"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 500 / 900 / 1620"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 90"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 20"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 42 / 76 / 137"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 65 / 117 / 211"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.65"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Death Lotus",
+			"type": "Active",
+			"bonus": "Katarina channels for 2.5 seconds, throwing knives at nearby enemies, dealing magic damage over the duration and reducing healing by 50% to her targets for 5 seconds.",
+			"ability_list": {
+				"label": "Number of Targets:",
+				"value": "Number of Targets: 4 / 6 / 8"
+			}
+		}
+	},
+	{
+		"name": "Kennen",
+		"origin": [
+			"Ninja"
+		],
+		"classes": [
+			"Keeper"
+		],
+		"cost": "3",
+		"item": [
+			"Guardian Angel",
+			"Ionic Spark",
+			"Morellonomicon"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 3"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 650 / 1170 / 2106"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 125"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 50"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 30"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 30"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 39 / 70 / 126"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 60 / 108 / 194"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.65"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 2"
+			}
+		],
+		"ability": {
+			"name": "Slicing Maelstrom",
+			"type": "Active",
+			"bonus": "Kennen summons a storm around him, dealing magic damage over 3 seconds and stunning enemies inside of it for 1.5 seconds.",
+			"ability_list": {
+				"label": "Damage:",
+				"value": "Damage: 300 / 450 / 1200"
+			}
+		}
+	},
+	{
+		"name": "Lee Sin",
+		"origin": [
+			"Divine"
+		],
+		"classes": [
+			"Duelist"
+		],
+		"cost": "5",
+		"item": [
+			"Dragon's Claw",
+			"Gargoyle Stoneplate",
+			"Guardian Angel"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 5"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 1000 / 1800 / 3240"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 40"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 60"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 60"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 51 / 92 / 165"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 60 / 108 / 194"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.85"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "God Fist",
+			"type": "Active",
+			"bonus": "Lee Sin punches his target, dealing magic damage, knocking them back to the edge of the battlefield, and stunning them for a few seconds. Any enemies the target collides with during the knockback receive half the damage and stunned for 1 second. If the target cannot be pushed back any further, they are knocked out of the battlefield instead, removing them from combat. If the target is still alive, Lee Sin will dash to them.",
+			"ability_list": {
+				"label": "Stun duration:",
+				"value": "Stun duration: 2 / 3 / 10"
+			}
+		}
+	},
+	{
+		"name": "Lulu",
+		"origin": [
+			"Elderwood"
+		],
+		"classes": [
+			"Mage"
+		],
+		"cost": "2",
+		"item": [
+			"Blue Buff",
+			"Spear of Shojin",
+			"Zephyr"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 2"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 500 / 900 / 1620"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 150"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 80"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 20"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 30 / 54 / 97"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 50 / 90 / 162"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.6"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 3"
+			}
+		],
+		"ability": {
+			"name": "Wild Growth",
+			"type": "Active",
+			"bonus": "Lulu makes a low health ally giant, granting them bonus health and knocking up adjacent enemies near them for 1 seconds.",
+			"ability_list": {
+				"label": "Bonus Health:",
+				"value": "Bonus Health: 400 / 600 / 950"
+			}
+		}
+	},
+	{
+		"name": "Maokai",
+		"origin": [
+			"Elderwood"
+		],
+		"classes": [
+			"Brawler"
+		],
+		"cost": "1",
+		"item": [
+			"Dragon's Claw",
+			"Gargoyle Stoneplate",
+			"Warmog's Armor"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 1"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 700 / 1260 / 2268"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 75"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 40"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 30"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 28 / 50 / 89"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 55 / 99 / 178"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.5"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Bramble Smash",
+			"type": "Active",
+			"bonus": "Maokai smashes enemies infront of him, dealing magic damage and slowing their Attack Speed by 50% for 3 seconds.",
+			"ability_list": {
+				"label": "Damage:",
+				"value": "Damage: 225 / 350 / 550"
+			}
+		}
+	},
+	{
+		"name": "Nidalee",
+		"origin": [
+			"Warlord"
+		],
+		"classes": [
+			"Sharpshooter"
+		],
+		"cost": "1",
+		"item": [
+			"Jeweled Gauntlet",
+			"Rabadon's Deathcap",
+			"Spear of Shojin"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 1"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 550 / 990 / 1782"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 80"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 30"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 31 / 57 / 102"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 45 / 81 / 146"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.7"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 4"
+			}
+		],
+		"ability": {
+			"name": "Javelin Toss",
+			"type": "Active",
+			"bonus": "Nidalee throws her Javelin at the furthest enemy, dealing magic damage plus 20% per hex traveled.",
+			"ability_list": {
+				"label": "Damage:",
+				"value": "Damage: 225 / 350 / 600"
+			}
+		}
+	},
+	{
+		"name": "Nunu",
+		"origin": [
+			"Elderwood"
+		],
+		"classes": [
+			"Brawler"
+		],
+		"cost": "3",
+		"item": [
+			"Gargoyle Stoneplate",
+			"Hextech Gunblade",
+			"Warmog's Armor"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 3"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 750 / 1350 / 2430"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 85"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 50"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 30"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 36 / 64 / 116"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 65 / 117 / 211"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.55"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Consume",
+			"type": "Active",
+			"bonus": "Willump bites his target, dealing magic damage. If Willump's target has less Health than him before the bite, it deals an additional 50% damage and deals true damage instead.",
+			"ability_list": {
+				"label": "Damage:",
+				"value": "Damage: 450 / 650 / 1800"
+			}
+		}
+	},
+	{
+		"name": "Sejuani",
+		"origin": [
+			"Fortune"
+		],
+		"classes": [
+			"Vanguard"
+		],
+		"cost": "4",
+		"item": [
+			"Gargoyle Stoneplate",
+			"Ionic Spark",
+			"Sunfire Cape"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 4"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 1000 / 1800 / 3240"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 150"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 70"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 60"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 40"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 25 / 45 / 80"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 45 / 81 / 146"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.55"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Firecracker",
+			"type": "Active",
+			"bonus": "Sejuani sets off a giant firecracker. After a short delay, enemies caught within are dealt magic damage and stunned for a few seconds.",
+			"ability_list": {
+				"label": "Stun duration:",
+				"value": "Stun duration: 2 / 3.5 / 6"
+			}
+		}
+	},
+	{
+		"name": "Sett",
+		"origin": [
+			"The Boss"
+		],
+		"classes": [
+			"Brawler"
+		],
+		"cost": "5",
+		"item": [
+			"Ionic Spark",
+			"Jeweled Gauntlet",
+			"Sunfire Cape"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 5"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 1100 / 1980 / 3564"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 175"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 100"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 60"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 30"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 45 / 81 / 146"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 60 / 108 / 194"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.75"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Showstopper",
+			"type": "Active",
+			"bonus": "Sett grabs his target and slams them forward, dealing a percent of his target's maximum health in magic damage to all enemies in a large area. Enemies further from the epicenter take less damage.",
+			"ability_list": {
+				"label": "Secondary Damage Percentage:",
+				"value": "Secondary Damage Percentage: 20% / 30% / 200%"
+			}
+		}
+	},
+	{
+		"name": "Shen",
+		"origin": [
+			"Ninja"
+		],
+		"classes": [
+			"Adept",
+			"Mystic"
+		],
+		"cost": "4",
+		"item": [
+			"Dragon's Claw",
+			"Gargoyle Stoneplate",
+			"Sunfire Cape"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 4"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 950 / 1710 / 3078"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 100"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 50"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 60"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 40"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 39 / 70 / 126"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 60 / 108 / 194"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.65"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Shadow Dash",
+			"type": "Active",
+			"bonus": "Shen dashes past his target, shielding himself against damage and taunting all adjacent enemies.",
+			"ability_list": {
+				"label": "Duration:",
+				"value": "Duration: 4 / 4 / 8"
+			}
+		}
+	},
+	{
+		"name": "Tahm Kench",
+		"origin": [
+			"Fortune"
+		],
+		"classes": [
+			"Brawler"
+		],
+		"cost": "1",
+		"item": [
+			"Dragon's Claw",
+			"Gargoyle Stoneplate",
+			"Titan's Resolve"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 1"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 700 / 1260 / 2268"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 0"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 40"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 30"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 43 / 77 / 138"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 85 / 153 / 275"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.5"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Thick Skin",
+			"type": "Passive",
+			"bonus": "Tahm Kench ignores damage from all sources.",
+			"ability_list": {
+				"label": "Damage Reduction:",
+				"value": "Damage Reduction: 15 / 25 / 75"
+			}
+		}
+	},
+	{
+		"name": "Talon",
+		"origin": [
+			"Enlightened"
+		],
+		"classes": [
+			"Assassin"
+		],
+		"cost": "4",
+		"item": [
+			"Giant Slayer",
+			"Guardian Angel",
+			"Infinity Edge"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 4"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 800 / 1440 / 2592"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 40"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 30"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 72 / 130 / 233"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 90 / 162 / 292"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.8"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Truestrike",
+			"type": "Active",
+			"bonus": "Talon stabs his target, striking them for a percent of his attack damage. If this kills them, Talon becomes unstoppable and untargetable while he leaps to the enemy with the lowest Armor.",
+			"ability_list": {
+				"label": "Damage:",
+				"value": "Damage: 85% / 135% / 400%"
+			}
+		}
+	},
+	{
+		"name": "Teemo",
+		"origin": [
+			"Spirit"
+		],
+		"classes": [
+			"Sharpshooter"
+		],
+		"cost": "2",
+		"item": [
+			"Guinsoo's Rageblade",
+			"Morellonomicon",
+			"Spear of Shojin"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 2"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 500 / 900 / 1620"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 60"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 20"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 39 / 69 / 125"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 55 / 99 / 178"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.7"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 3"
+			}
+		],
+		"ability": {
+			"name": "Sporecloud Dart",
+			"type": "Active",
+			"bonus": "Teemo fires a dart at his target that explodes into a cloud of spores on contact, poisoning nearby enemies. Poisoned enemies take magic damage over a few seconds and are blinded for the duration.",
+			"ability_list": {
+				"label": "Duration:",
+				"value": "Duration: 2.5 / 3 / 4.5"
+			}
+		}
+	},
+	{
+		"name": "Twisted Fate",
+		"origin": [
+			"Cultist"
+		],
+		"classes": [
+			"Mage"
+		],
+		"cost": "1",
+		"item": [
+			"Blue Buff",
+			"Infinity Edge",
+			"Jeweled Gauntlet"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 1"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 550 / 990 / 1782"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 70"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 20"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 29 / 53 / 95"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 45 / 81 / 146"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.65"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 3"
+			}
+		],
+		"ability": {
+			"name": "Wild Cards",
+			"type": "Active",
+			"bonus": "Twisted Fate throws three cards in a cone that deal magic damage to each enemy they pass through.",
+			"ability_list": {
+				"label": "Damage:",
+				"value": "Damage: 250 / 350 / 475"
+			}
+		}
+	},
+	{
+		"name": "Veigar",
+		"origin": [
+			"Elderwood"
+		],
+		"classes": [
+			"Mage"
+		],
+		"cost": "3",
+		"item": [
+			"Blue Buff",
+			"Hextech Gunblade",
+			"Jeweled Gauntlet"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 3"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 600 / 1080 / 1944"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 55"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 20"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 24 / 43 / 78"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 40 / 72 / 130"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.6"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 3"
+			}
+		],
+		"ability": {
+			"name": "Butterfly Burst",
+			"type": "Active",
+			"bonus": "Veigar blasts the lowest health enemy with a burst of energy, dealing magic damage. If this kills the target, Veigar permanently gains spell power.",
+			"ability_list": {
+				"label": "Spell Power Increase:",
+				"value": "Spell Power Increase: 1 / 1 / 2"
+			}
+		}
+	},
+	{
+		"name": "Vi",
+		"origin": [
+			"Warlord"
+		],
+		"classes": [
+			"Brawler"
+		],
+		"cost": "2",
+		"item": [
+			"Dragon's Claw",
+			"Gargoyle Stoneplate",
+			"Sunfire Cape"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 2"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 700 / 1260 / 2268"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 50"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 40"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 30"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 39 / 70 / 126"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 65 / 117 / 211"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.6"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Denting Blow",
+			"type": "Active",
+			"bonus": "Vi's attack blasts through her target, dealing magic damage to all enemies in a cone and reducing their armor for 8 seconds.",
+			"ability_list": {
+				"label": "Armor Reduction:",
+				"value": "Armor Reduction: 40% / 60% / 80%"
+			}
+		}
+	},
+	{
+		"name": "Wukong",
+		"origin": [
+			"Divine"
+		],
+		"classes": [
+			"Vanguard"
+		],
+		"cost": "1",
+		"item": [
+			"Deathblade",
+			"Guinsoo's Rageblade",
+			"Rapid Firecannon"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 1"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 650 / 1170 / 2106"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 50"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 40"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 30"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 36 / 64 / 116"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 55 / 99 / 178"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.65"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Crushing Blow",
+			"type": "Active",
+			"bonus": "Wukong slams his target with his staff, dealing a percent of his Attack Damage as physical damage and stunning them for a few seconds.",
+			"ability_list": {
+				"label": "Stun duration:",
+				"value": "Stun duration: 1.5 / 2 / 3"
+			}
+		}
+	},
+	{
+		"name": "Yasuo",
+		"origin": [
+			"Exile"
+		],
+		"classes": [
+			"Duelist"
+		],
+		"cost": "1",
+		"item": [
+			"Guardian Angel",
+			"Hand of Justice",
+			"Quicksilver"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 1"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 550 / 990 / 1782"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 45"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 30"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 35 / 63 / 113"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 50 / 90 / 162"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.7"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Striking Steel",
+			"type": "Active",
+			"bonus": "Yasuo strikes forward two hexes, dealing a percent of his Attack Damage as physical damage and applying on-hit effects.",
+			"ability_list": {
+				"label": "Percent of Attack Damage:",
+				"value": "Percent of Attack Damage: 180% / 200% / 225%"
+			}
+		}
+	},
+	{
+		"name": "Yone",
+		"origin": [
+			"Exile"
+		],
+		"classes": [
+			"Adept"
+		],
+		"cost": "5",
+		"item": [
+			"Blue Buff",
+			"Hextech Gunblade",
+			"Quicksilver"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 5"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 950 / 1710 / 3078"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 60"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 40"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 40"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 76 / 137 / 246"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 80 / 144 / 259"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.95"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Seal Fate",
+			"type": "Active",
+			"bonus": "Yone strikes along a path in front of him, dealing magic damage split between all enemies hit. Enemies hit are marked for death, reducing their Armor and Magic Resist by 60%. Yone's spell is then replaced with Unforgotten until there are no remaining enemies marked for death. Unforgotten (20 mana): Yone dashes to the lowest health enemy that is marked for death, killing them instantly.",
+			"ability_list": {
+				"label": "Unforgotten Base Damage:",
+				"value": "Unforgotten Base Damage: 200 / 400 / 1000"
+			}
+		}
+	},
+	{
+		"name": "Yuumi",
+		"origin": [
+			"Spirit"
+		],
+		"classes": [
+			"Mystic"
+		],
+		"cost": "3",
+		"item": [
+			"Blue Buff",
+			"Spear of Shojin",
+			"Zephyr"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 3"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 650 / 1170 / 2106"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 40"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 20"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 24 / 43 / 78"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 40 / 72 / 130"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.6"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 3"
+			}
+		],
+		"ability": {
+			"name": "Zoomies",
+			"type": "Active",
+			"bonus": "Yuumi dashes next to a low health ally, healing them for a percent of their missing health and granting them attack speed for 5 seconds. She then repeats this for the furthest ally.",
+			"ability_list": {
+				"label": "Attack Speed:",
+				"value": "Attack Speed: 30% / 40% / 60%"
+			}
+		}
+	},
+	{
+		"name": "Zilean",
+		"origin": [
+			"Cultist"
+		],
+		"classes": [
+			"Mystic"
+		],
+		"cost": "5",
+		"item": [
+			"Blue Buff",
+			"Guardian Angel",
+			"Spear of Shojin"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 5"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 750 / 1350 / 2430"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 150"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 100"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 20"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 34 / 61 / 109"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 45 / 81 / 146"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.75"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 3"
+			}
+		],
+		"ability": {
+			"name": "Rewind Fate",
+			"type": "Active",
+			"bonus": "Zilean places a protective Time Rune on the 2 allies with the lowest Health. When they would die, they instead resurrect after 3.5 seconds, returning to combat with some health and shredding all negative effects. After resurrecting, they have 50% bonus Attack Speed for the rest of combat.",
+			"ability_list": {
+				"label": "Health Restored:",
+				"value": "Health Restored: 350 / 500 / 3000"
+			}
+		}
+	},
+	{
+		"name": "Aurelion Sol",
+		"origin": [
+			"Dragonsoul"
+		],
+		"classes": [
+			"Mage"
+		],
+		"cost": "4",
+		"item": [
+			"Blue Buff",
+			"Jeweled Gauntlet",
+			"Rabadon's Deathcap"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 4"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 650 / 1170 / 2106"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 80"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 20"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 80"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 30 / 54 / 97"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 40 / 72 / 130"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.75"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 3"
+			}
+		],
+		"ability": {
+			"name": "Voice of Lightning",
+			"type": "Active",
+			"bonus": "Aurelion Sol breathes lightning in a line towards the farthest enemy, dealing magic damage and Overcharging all enemies hit for 10 seconds. If an enemy is already overcharged, Aurelion Sol consumes the effect and deals 50% bonus damage.",
+			"ability_list": {
+				"label": "Damage:",
+				"value": "Damage: 350 / 550 / 1750"
+			}
+		}
+	},
+	{
+		"name": "Brand",
+		"origin": [
+			"Dragonsoul"
+		],
+		"classes": [
+			"Mage"
+		],
+		"cost": "1",
+		"item": [
+			"Blue Buff",
+			"Jeweled Gauntlet",
+			"Rabadon's Deathcap"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 1"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 500 / 900 / 1620"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 50"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 20"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 40"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 26 / 47 / 84"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 40 / 72 / 130"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.65"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 3"
+			}
+		],
+		"ability": {
+			"name": "Dragonfire Pillar",
+			"type": "Active",
+			"bonus": "After a brief delay, Brand erupts the ground under the enemy with the highest Attack Speed in flames, dealing magic damage to enemies within. If an enemy is caught in the epicenter, they are stunned.",
+			"ability_list": {
+				"label": "Stun Duration:",
+				"value": "Stun Duration: 1.5 / 2 / 3"
+			}
+		}
+	},
+	{
+		"name": "Braum",
+		"origin": [
+			"Dragonsoul"
+		],
+		"classes": [
+			"Vanguard"
+		],
+		"cost": "2",
+		"item": [
+			"Bramble Vest",
+			"Gargoyle Stoneplate",
+			"Sunfire Cape"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 2"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 750 / 1350 / 2430"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 70"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 60"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 60"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 24 / 43 / 78"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 40 / 72 / 130"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.6"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Unbreakable",
+			"type": "Active",
+			"bonus": "Braum faces the farthest enemy and raises his shield for 4 seconds, absorbing and stopping all incoming missiles and reducing his damage taken from that direction.",
+			"ability_list": {
+				"label": "Damage Reduction:",
+				"value": "Damage Reduction: 75% / 80% / 90%"
+			}
+		}
+	},
+	{
+		"name": "Chogath",
+		"origin": [
+			"Fabled"
+		],
+		"classes": [
+			"Brawler"
+		],
+		"cost": "4",
+		"item": [
+			"Guardian Angel",
+			"Morellonomicon",
+			"Warmog's Armor"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 4"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 1000 / 1800 / 3240"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 150"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 75"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 40"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 40"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 60 / 108 / 194"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 100 / 180 / 324"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.6"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Rupture",
+			"type": "Active",
+			"bonus": "Chogath ruptures a large area, dealing magic damage and knocking up all enemies within. Fabled Bonus: Chogath additionally knocks up all enemies on the board.",
+			"ability_list": {
+				"label": "Knock Up Duration:",
+				"value": "Knock Up Duration: 2 / 2.5 / 8"
+			}
+		}
+	},
+	{
+		"name": "Darius",
+		"origin": [
+			"Fortune"
+		],
+		"classes": [
+			"Slayer"
+		],
+		"cost": "3",
+		"item": [
+			"Hextech Gunblade",
+			"Ionic Spark",
+			"Jeweled Gauntlet"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 3"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 800 / 1440 / 2592"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 50"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 60"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 30"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 49 / 88 / 159"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 70 / 126 / 227"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.7"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Fortune's Guillotine",
+			"type": "Active",
+			"bonus": "Darius dunks an enemy, dealing magic damag. While dunking, Darius is unstoppable. If this kills the target, Darius immediately casts again dealing 20% reduced damage.",
+			"ability_list": {
+				"label": "Damage:",
+				"value": "Damage: 500 / 750 / 1250"
+			}
+		}
+	},
+	{
+		"name": "Diana",
+		"origin": [
+			"Spirit"
+		],
+		"classes": [
+			"Assassin"
+		],
+		"cost": "1",
+		"item": [
+			"Hextech Gunblade",
+			"Infinity Edge",
+			"Jeweled Gauntlet"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 1"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 550 / 990 / 1782"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 70"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 30"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 33 / 59 / 105"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 50 / 90 / 162"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.65"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Pale Cascade",
+			"type": "Active",
+			"bonus": "Diana shields herself against damage over 4 seconds and summons orbs to orbit around her. These orbs explode for magic damage when they contact an enemy, refreshing her shield when the final one explodes.",
+			"ability_list": {
+				"label": "Damage:",
+				"value": "Damage: 200 / 300 / 450"
+			}
+		}
+	},
+	{
+		"name": "Kayle",
+		"origin": [
+			"Divine"
+		],
+		"classes": [
+			"Executioner"
+		],
+		"cost": "4",
+		"item": [
+			"Guinsoo's Rageblade",
+			"Quicksilver",
+			"Rapid Firecannon"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 4"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 650 / 1170 / 2106"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 70"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 25"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 68 / 122 / 219"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 75 / 135 / 243"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.9"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 3"
+			}
+		],
+		"ability": {
+			"name": "Ascend",
+			"type": "Active",
+			"bonus": "Kayle Ascends, causing her attacks to launch waves that deal bonus magic damage to enemies hit.",
+			"ability_list": {
+				"label": "Bonus Damage:",
+				"value": "Bonus Damage: 100 / 175 / 600"
+			}
+		}
+	},
+	{
+		"name": "Nasus",
+		"origin": [
+			"Divine"
+		],
+		"classes": [
+			"Syphoner"
+		],
+		"cost": "1",
+		"item": [
+			"Bramble Vest",
+			"Gargoyle Stoneplate",
+			"Sunfire Cape"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 1"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 650 / 1170 / 2106"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 60"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 40"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 40"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 29 / 53 / 95"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 45 / 81 / 146"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.65"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Wither",
+			"type": "Active",
+			"bonus": "Nasus withers the enemy with the highest percent health, dealing magic damage over 5 seconds and slowing their attack speed and movement speed by 50% for the duration.",
+			"ability_list": {
+				"label": "Damage:",
+				"value": "Damage: 400 / 600 / 1000"
+			}
+		}
+	},
+	{
+		"name": "Nautilus",
+		"origin": [
+			"Fabled"
+		],
+		"classes": [
+			"Vanguard"
+		],
+		"cost": "2",
+		"item": [
+			"Bramble Vest",
+			"Gargoyle Stoneplate",
+			"Sunfire Cape"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 2"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 750 / 1350 / 2430"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 150"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 75"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 45"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 30"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 33 / 59 / 107"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 55 / 99 / 178"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.6"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Impact Crater",
+			"type": "Active",
+			"bonus": "Nautilus erupts the ground beneath his target, knocking them up and stunning them and dealing magic damage. Fabled Bonus: Nautilus also grants himself a shield that reduces incoming damage by 75% for 5 seconds.",
+			"ability_list": {
+				"label": "Stun Duration:",
+				"value": "Stun Duration: 3 / 4 / 6"
+			}
+		}
+	},
+	{
+		"name": "Neeko",
+		"origin": [
+			"Fabled"
+		],
+		"classes": [
+			"Mystic"
+		],
+		"cost": "3",
+		"item": [
+			"Blue Buff",
+			"Jeweled Gauntlet",
+			"Rabadon's Deathcap"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 3"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 700 / 1260 / 2268"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 60"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 25"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 25"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 31 / 57 / 102"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 45 / 81 / 146"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.7"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 3"
+			}
+		],
+		"ability": {
+			"name": "Pop Blossom",
+			"type": "Active",
+			"bonus": "Neeko throws a seed at a random target that explodes for magic damage three times, with each explosion increasing the radius by one hex. Fabled Bonus: The third explosion is empowered dealing bonus magic damage.",
+			"ability_list": {
+				"label": "Bonus Damage:",
+				"value": "Bonus Damage: 450 / 750 / 1500"
+			}
+		}
+	},
+	{
+		"name": "Olaf",
+		"origin": [
+			"Dragonsoul"
+		],
+		"classes": [
+			"Slayer"
+		],
+		"cost": "4",
+		"item": [
+			"Bloodthirster",
+			"Guardian Angel",
+			"Guinsoo's Rageblade"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 4"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 900 / 1620 / 2916"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 70"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 50"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 60"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 68 / 122 / 220"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 85 / 153 / 275"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.8"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Ragnarok",
+			"type": "Active",
+			"bonus": "Olaf gains bonus attack speed, immunity to crowd control, and his attacks cleave in a cone in front of him for the rest of combat.",
+			"ability_list": {
+				"label": "Damage:",
+				"value": "Damage: 40% / 50% / 100%"
+			}
+		}
+	},
+	{
+		"name": "Ornn",
+		"origin": [
+			"Elderwood"
+		],
+		"classes": [
+			"Vanguard",
+			"Blacksmith"
+		],
+		"cost": "5",
+		"item": [
+			"Bramble Vest",
+			"Gargoyle Stoneplate",
+			"Sunfire Cape"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 5"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 900 / 1620 / 2916"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 160"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 80"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 50"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 50"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 55 / 99 / 178"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 100 / 180 / 324"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.55"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Stampede",
+			"type": "Active",
+			"bonus": "Ornn summons an elemental from behind the furthest enemy to travel towards him, slowing the Attack Speed of enemies hit by 50% for 3 seconds and dealing magic damage. If the elemental runs into Ornn, he headbutts it, redirecting it towards another distant enemy, stunning them and dealing magic damage.",
+			"ability_list": {
+				"label": "Secondary Damage:",
+				"value": "Secondary Damage: 150 / 250 / 750"
+			}
+		}
+	},
+	{
+		"name": "Rakan",
+		"origin": [
+			"Elderwood"
+		],
+		"classes": [
+			"Keeper"
+		],
+		"cost": "2",
+		"item": [
+			"Frozen Heart",
+			"Gargoyle Stoneplate",
+			"Sunfire Cape"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 2"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 600 / 1080 / 1944"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 90"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 40"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 40"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 30"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 31 / 57 / 102"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 45 / 81 / 146"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.7"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 2"
+			}
+		],
+		"ability": {
+			"name": "Grand Entrance",
+			"type": "Active",
+			"bonus": "Rakan dashes next to the farthest enemy within his range, Disarming all units he passes through and taunting his target. Rakan then creates a shield on himself for 4 seconds.",
+			"ability_list": {
+				"label": "Disarm Duration:",
+				"value": "Disarm Duration: 1.5 / 2 / 3"
+			}
+		}
+	},
+	{
+		"name": "Samira",
+		"origin": [
+			"Daredevil"
+		],
+		"classes": [
+			"Sharpshooter",
+			"Slayer"
+		],
+		"cost": "5",
+		"item": [
+			"Guardian Angel",
+			"Infinity Edge",
+			"Last Whisper"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 5"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 900 / 1620 / 2916"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 0"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 30"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 30"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 72 / 130 / 233"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 80 / 144 / 259"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.9"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 4"
+			}
+		],
+		"ability": {
+			"name": "Inferno Trigger",
+			"type": "Active",
+			"bonus": "Samira dashes and becomes unstoppable, unleashing shots at 3 enemies within 2.5 hexes for 2 seconds (Total shots: 24). For the duration, Samira gains 100% dodge chance.",
+			"ability_list": {
+				"label": "Shots Per Second:",
+				"value": "Shots Per Second: 4 / 4 / 4"
+			}
+		}
+	},
+	{
+		"name": "Shyvana",
+		"origin": [
+			"Dragonsoul"
+		],
+		"classes": [
+			"Brawler"
+		],
+		"cost": "3",
+		"item": [
+			"Gargoyle Stoneplate",
+			"Sunfire Cape",
+			"Warmog's Armor"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 3"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 650 / 1170 / 2106"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 75"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 35"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 80"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 53 / 95 / 170"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 70 / 126 / 227"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.75"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Dragon's Descent",
+			"type": "Active",
+			"bonus": "Shyvana transforms into her Dragon Form, flying away from her current target. While in Dragon Form Shyvana gains 90% bonus Health, some Attack Damage, and her basic attacks become ranged attacks that deal bonus magic damage over 2 seconds on hit.",
+			"ability_list": {
+				"label": "Bonus Damage:",
+				"value": "Bonus Damage: 150 / 300 / 600"
+			}
+		}
+	},
+	{
+		"name": "Sivir",
+		"origin": [
+			"Cultist"
+		],
+		"classes": [
+			"Sharpshooter"
+		],
+		"cost": "3",
+		"item": [
+			"Guardian Angel",
+			"Infinity Edge",
+			"Last Whisper"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 3"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 650 / 1170 / 2106"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 80"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 30"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 20"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 60 / 107 / 193"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 70 / 126 / 227"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.85"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 4"
+			}
+		],
+		"ability": {
+			"name": "On The Hunt",
+			"type": "Active",
+			"bonus": "Sivir rallies her allies, granting them Attack Speed for 5 seconds. Sivir gains bonus Attack Damage for the duration.",
+			"ability_list": {
+				"label": "Bonus Attack Speed:",
+				"value": "Bonus Attack Speed: 60% / 75% / 100%"
+			}
+		}
+	},
+	{
+		"name": "Swain",
+		"origin": [
+			"Dragonsoul"
+		],
+		"classes": [
+			"Syphoner"
+		],
+		"cost": "5",
+		"item": [
+			"Guardian Angel",
+			"Hextech Gunblade",
+			"Warmog's Armor"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 5"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 900 / 1620 / 2916"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 100"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 40"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 40"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 75"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 39 / 70 / 126"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 60 / 108 / 194"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.65"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 2"
+			}
+		],
+		"ability": {
+			"name": "Draconic Ascension",
+			"type": "Active",
+			"bonus": "Swain transforms into his dragon form for 6 seconds, gaining maximum health and dealing magic damage per second to enemies within range. While in this form, every 2 seconds Swain breaths fire in a cone in front of him, dealing magic damage, burning enemies for 25% of their maximum health as true damage over 10 seconds, and reducing healing by 50% for the duration.",
+			"ability_list": {
+				"label": "Secondary Damage:",
+				"value": "Secondary Damage: 100 / 200 / 1000"
+			}
+		}
+	},
+	{
+		"name": "Tristana",
+		"origin": [
+			"Dragonsoul"
+		],
+		"classes": [
+			"Sharpshooter"
+		],
+		"cost": "1",
+		"item": [
+			"Guardian Angel",
+			"Infinity Edge",
+			"Last Whisper"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 1"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 500 / 900 / 1620"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 40"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 20"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 40"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 39 / 69 / 125"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 55 / 99 / 178"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.7"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 4"
+			}
+		],
+		"ability": {
+			"name": "Rapid Fire",
+			"type": "Active",
+			"bonus": "Tristana excites her Dragon, increasing her Attack Speed and dealing bonus magic damage on hit for 3 seconds.",
+			"ability_list": {
+				"label": "Bonus Attack Speed:",
+				"value": "Bonus Attack Speed: 80% / 100% / 125%"
+			}
+		}
+	},
+	{
+		"name": "Tryndamere",
+		"origin": [
+			"Warlord"
+		],
+		"classes": [
+			"Duelist",
+			"Slayer"
+		],
+		"cost": "4",
+		"item": [
+			"Deathblade",
+			"Guardian Angel",
+			"Hand of Justice"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 4"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 850 / 1530 / 2754"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 80"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 30"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 50"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 40"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 72 / 130 / 234"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 85 / 153 / 275"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.85"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Spinning Slash",
+			"type": "Active",
+			"bonus": "Tryndamere spins towards the most enemies in a line dealing 100% of his Attack Damage to enemies in his path and empowering his next three attacks to do additional damage.",
+			"ability_list": {
+				"label": "Bonus Damage:",
+				"value": "Bonus Damage: 75% / 100% / 200%"
+			}
+		}
+	},
+	{
+		"name": "Vladimir",
+		"origin": [
+			"Cultist"
+		],
+		"classes": [
+			"Syphoner"
+		],
+		"cost": "2",
+		"item": [
+			"Guardian Angel",
+			"Hextech Gunblade",
+			"Rabadon's Deathcap"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 2"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 750 / 1350 / 2430"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 60"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 30"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 30"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 24 / 43 / 78"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 40 / 72 / 130"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.6"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 3"
+			}
+		],
+		"ability": {
+			"name": "Transfusion",
+			"type": "Active",
+			"bonus": "Vladimir deals magic damage to his target. All nearby allies are healed for 40% of damage dealt.",
+			"ability_list": {
+				"label": "Damage:",
+				"value": "Damage: 350 / 500 / 750"
+			}
+		}
+	},
+	{
+		"name": "Xayah",
+		"origin": [
+			"Elderwood"
+		],
+		"classes": [
+			"Keeper",
+			"Executioner"
+		],
+		"cost": "4",
+		"item": [
+			"Guardian Angel",
+			"Infinity Edge",
+			"Last Whisper"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 4"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 600 / 1080 / 1944"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 100"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 40"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 20"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 68 / 122 / 220"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 80 / 144 / 259"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.85"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 4"
+			}
+		],
+		"ability": {
+			"name": "Featherstorm",
+			"type": "Active",
+			"bonus": "Xayah leaps into the air becoming untargetable, invulnerable, and throwing out a fan of feather daggers, dealing a percent of her Attack Damage as physical damage to enemies within the cone. Xayah then recalls her feathers, striking enemies hit for magic damage per feather.",
+			"ability_list": {
+				"label": "Damage:",
+				"value": "Damage: 100 / 200 / 400"
+			}
+		}
+	},
+	{
+		"name": "Zed",
+		"origin": [
+			"Ninja"
+		],
+		"classes": [
+			"Slayer"
+		],
+		"cost": "2",
+		"item": [
+			"Deathblade",
+			"Quicksilver",
+			"Rapid Firecannon"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 2"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 600 / 1080 / 1944"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 0"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 20"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 41 / 74 / 134"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 55 / 99 / 178"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.8"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Contempt for the Weak",
+			"type": "Passive",
+			"bonus": "Passive: Zed leaps to the enemy back line at the start of combat. Every third attack, Zed deals bonus magic damage and steals a percent of the target's current Attack Damage.",
+			"ability_list": {
+				"label": "Attack Damage Stolen:",
+				"value": "Attack Damage Stolen: 20% / 33% / 50%"
+			}
+		}
+	},
+	{
+		"name": "Morgana",
+		"origin": [
+			"Enlightened"
+		],
+		"classes": [
+			"Syphoner"
+		],
+		"cost": "4",
+		"item": [
+			"Blue Buff",
+			"Morellonomicon",
+			"Rabadon's Deathcap"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 4"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 750 / 1350 / 2430"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 120"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 60"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 30"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 60"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 35 / 63 / 113"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 50 / 90 / 162"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.7"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 3"
+			}
+		],
+		"ability": {
+			"name": "Hallowed Ground",
+			"type": "Active",
+			"bonus": "Morgana hallows the ground beneath her target, dealing magic damage to enemies within over 5 seconds and shredding their Magic Resistance and reducing their Attack Damage by 40% while they remain inside.",
+			"ability_list": {
+				"label": "Healing:",
+				"value": "Healing: 10% / 20% / 30%"
+			}
+		}
+	},
+	{
+		"name": "Kindred",
+		"origin": [
+			"Spirit"
+		],
+		"classes": [
+			"Executioner"
+		],
+		"cost": "3",
+		"item": [
+			"Blue Buff",
+			"Infinity Edge",
+			"Jeweled Gauntlet"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 3"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 650 / 1170 / 2106"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 35"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 20"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 20"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 56 / 101 / 181"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 70 / 126 / 227"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.8"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 3"
+			}
+		],
+		"ability": {
+			"name": "Dance of Dread",
+			"type": "Active",
+			"bonus": "Wolf mauls Kindred's target, dealing magic damage and reducing healing by 50% to her target for 5 seconds, while Lamb leaps away from Kindred's target.",
+			"ability_list": {
+				"label": "Damage:",
+				"value": "Damage: 200 / 375 / 650"
+			}
+		}
+	},
+	{
+		"name": "Pyke",
+		"origin": [
+			"Cultist"
+		],
+		"classes": [
+			"Assassin",
+			"Slayer"
+		],
+		"cost": "2",
+		"item": [
+			"Blue Buff",
+			"Morellonomicon",
+			"Spear of Shojin"
+		],
+		"stats": [
+			{
+				"label": "Cost:",
+				"value": "Cost: 2"
+			},
+			{
+				"label": "Health:",
+				"value": "Health: 700 / 1260 / 2268"
+			},
+			{
+				"label": "Mana:",
+				"value": "Mana: 125"
+			},
+			{
+				"label": "Starting Mana:",
+				"value": "Starting Mana: 75"
+			},
+			{
+				"label": "Armor:",
+				"value": "Armor: 50"
+			},
+			{
+				"label": "MR:",
+				"value": "MR: 30"
+			},
+			{
+				"label": "DPS:",
+				"value": "DPS: 30 / 54 / 97"
+			},
+			{
+				"label": "Damage:",
+				"value": "Damage: 50 / 90 / 162"
+			},
+			{
+				"label": "Atk Spd:",
+				"value": "Atk Spd: 0.6"
+			},
+			{
+				"label": "Crit Rate:",
+				"value": "Crit Rate: 25%"
+			},
+			{
+				"label": "Range:",
+				"value": "Range: 1"
+			}
+		],
+		"ability": {
+			"name": "Phantom Undertow",
+			"type": "Active",
+			"bonus": "Pyke dashes behind the furthest enemy, creating an afterimage that deals magic damage and stuns enemies it passes through for a few seconds.",
+			"ability_list": {
+				"label": "Stun duration:",
+				"value": "Stun duration: 2 / 2.5 / 4"
+			}
+		}
+	}
+]

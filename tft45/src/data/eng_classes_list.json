@@ -1,0 +1,363 @@
+[
+	{
+		"name": "Adept",
+		"bonus": {
+			"header": "Adepts calm the flow of battle, reducing the Attack Speed of all enemies by 50% for a few seconds at the start of combat.",
+			"bonus_items": [
+				{
+					"count": "2",
+					"value": "2 Seconds"
+				},
+				{
+					"count": "3",
+					"value": "3.5 Seconds"
+				},
+				{
+					"count": "4",
+					"value": "6 Seconds"
+				}
+			]
+		},
+		"units": [
+			"Irelia",
+			"Shen",
+			"Yone"
+		]
+	},
+	{
+		"name": "Assassin",
+		"bonus": {
+			"header": "Innate: Before combat starts, Assassins leap to the enemy backline.\nAssassins' spells can critically stike and they gain bonus Critical Strike Damage and Chance.",
+			"bonus_items": [
+				{
+					"count": "2",
+					"value": "10% Crit Chance and 30% Crit Damage"
+				},
+				{
+					"count": "4",
+					"value": "25% Crit Chance and 60% Crit Damage"
+				},
+				{
+					"count": "6",
+					"value": "40% Crit Chance and 90% Crit Damage"
+				}
+			]
+		},
+		"units": [
+			"Akali",
+			"Katarina",
+			"Talon",
+			"Diana",
+			"Pyke"
+		]
+	},
+	{
+		"name": "Brawler",
+		"bonus": {
+			"header": "Brawlers gain bonus Maximum Health.",
+			"bonus_items": [
+				{
+					"count": "2",
+					"value": "400 Bonus Health"
+				},
+				{
+					"count": "4",
+					"value": "800 Bonus Health"
+				},
+				{
+					"count": "6",
+					"value": "1200 Bonus Health"
+				},
+				{
+					"count": "8",
+					"value": "1800 Bonus Health"
+				}
+			]
+		},
+		"units": [
+			"Maokai",
+			"Nunu",
+			"Sett",
+			"Tahm Kench",
+			"Vi",
+			"Chogath",
+			"Shyvana"
+		]
+	},
+	{
+		"name": "Duelist",
+		"bonus": {
+			"header": "Innate: Duelists gain bonus Movement Speed.\nDuelists' attacks grant Attack Speed, up to 8 stacks.",
+			"bonus_items": [
+				{
+					"count": "2",
+					"value": "12% Attack Speed per Stack"
+				},
+				{
+					"count": "4",
+					"value": "20% Attack Speed per Stack"
+				},
+				{
+					"count": "6",
+					"value": "35% Attack Speed per Stack"
+				},
+				{
+					"count": "8",
+					"value": "60% Attack Speed per Stack"
+				}
+			]
+		},
+		"units": [
+			"Fiora",
+			"Jax",
+			"Kalista",
+			"Lee Sin",
+			"Yasuo",
+			"Tryndamere"
+		]
+	},
+	{
+		"name": "Emperor",
+		"bonus": {
+			"header": "",
+			"bonus_items": [
+				{
+					"count": "1",
+					"value": "The Emperor deploys with two Sand Guards who can be placed anywhere on the battlefield. They do not move or attack, and die when their Emperor does."
+				}
+			]
+		},
+		"units": [
+			"Azir"
+		]
+	},
+	{
+		"name": "Keeper",
+		"bonus": {
+			"header": "At the start of combat, Keepers grant themselves and all nearby allies a shield. This shield is 50% stronger on Keepers.",
+			"bonus_items": [
+				{
+					"count": "2",
+					"value": "150 Shield Amount for 8 seconds"
+				},
+				{
+					"count": "4",
+					"value": "225 Shield Amount for 10 seconds"
+				},
+				{
+					"count": "6",
+					"value": "350 Shield Amount for 12 seconds"
+				}
+			]
+		},
+		"units": [
+			"Azir",
+			"Elise",
+			"Jarvan IV",
+			"Kennen",
+			"Rakan",
+			"Xayah"
+		]
+	},
+	{
+		"name": "Mage",
+		"bonus": {
+			"header": "Mages cast twice and have modified Spell Power.",
+			"bonus_items": [
+				{
+					"count": "3",
+					"value": "80% of their total Spell Power"
+				},
+				{
+					"count": "6",
+					"value": "120% of their total Spell Power"
+				},
+				{
+					"count": "9",
+					"value": "180% of their total Spell Power"
+				}
+			]
+		},
+		"units": [
+			"Annie",
+			"Lulu",
+			"Twisted Fate",
+			"Veigar",
+			"Aurelion Sol",
+			"Brand"
+		]
+	},
+	{
+		"name": "Mystic",
+		"bonus": {
+			"header": "All allies gain Magic Resistance.",
+			"bonus_items": [
+				{
+					"count": "2",
+					"value": "40 Magic Resistance"
+				},
+				{
+					"count": "4",
+					"value": "100 Magic Resistance"
+				},
+				{
+					"count": "6",
+					"value": "200 Magic Resistance"
+				}
+			]
+		},
+		"units": [
+			"Janna",
+			"Shen",
+			"Yuumi",
+			"Zilean",
+			"Neeko"
+		]
+	},
+	{
+		"name": "Sharpshooter",
+		"bonus": {
+			"header": "Sharpshooters attacks and spells ricochet to nearby enemies dealing reduced damage.",
+			"bonus_items": [
+				{
+					"count": "2",
+					"value": "1 Ricochet with 55% Reduced Damage"
+				},
+				{
+					"count": "4",
+					"value": "2 Ricochets with 50% Reduced Damage"
+				},
+				{
+					"count": "6",
+					"value": "3 Ricochets with 45% Reduced Damage"
+				}
+			]
+		},
+		"units": [
+			"Nidalee",
+			"Teemo",
+			"Samira",
+			"Sivir",
+			"Tristana"
+		]
+	},
+	{
+		"name": "Vanguard",
+		"bonus": {
+			"header": "Vanguard champions gain bonus Armor.",
+			"bonus_items": [
+				{
+					"count": "2",
+					"value": "120 Armor"
+				},
+				{
+					"count": "4",
+					"value": "300 Armor"
+				},
+				{
+					"count": "6",
+					"value": "750 Armor"
+				},
+				{
+					"count": "8",
+					"value": "2000 Armor"
+				}
+			]
+		},
+		"units": [
+			"Aatrox",
+			"Garen",
+			"Sejuani",
+			"Wukong",
+			"Braum",
+			"Nautilus",
+			"Ornn"
+		]
+	},
+	{
+		"name": "Blacksmith",
+		"bonus": {
+			"header": "",
+			"bonus_items": [
+				{
+					"count": "1",
+					"value": "After participating in combat, Blacksmiths will begin forging an Artifact item. The higher their star-level, the faster they work. Once the Artifact is complete, it will be able to bestow upon an ally. Each ally may only equip one Artifact."
+				}
+			]
+		},
+		"units": [
+			"Ornn"
+		]
+	},
+	{
+		"name": "Executioner",
+		"bonus": {
+			"header": "Executioner's basic attacks and spell always critically strike targets below an HP threshhold.",
+			"bonus_items": [
+				{
+					"count": "2",
+					"value": "33% Health"
+				},
+				{
+					"count": "3",
+					"value": "66% Health"
+				},
+				{
+					"count": "4",
+					"value": "99% Health"
+				}
+			]
+		},
+		"units": [
+			"Kayle",
+			"Xayah",
+			"Kindred"
+		]
+	},
+	{
+		"name": "Slayer",
+		"bonus": {
+			"header": "Slayers gain Lifesteal that increases at lower Health, and deal bonus damage that increases based off their target's missing Health.",
+			"bonus_items": [
+				{
+					"count": "3",
+					"value": "30 to 60% Lifesteal and Bonus Damage"
+				},
+				{
+					"count": "6",
+					"value": "50 to 100% Lifesteal and Bonus Damage"
+				}
+			]
+		},
+		"units": [
+			"Darius",
+			"Olaf",
+			"Samira",
+			"Tryndamere",
+			"Zed",
+			"Pyke"
+		]
+	},
+	{
+		"name": "Syphoner",
+		"bonus": {
+			"header": "All allies heal for some of the damage they deal with spells and attacks.",
+			"bonus_items": [
+				{
+					"count": "2",
+					"value": "10% for Allies; 40% for Syphoners"
+				},
+				{
+					"count": "4",
+					"value": "25% for Allies; 100% for Syphoners"
+				}
+			]
+		},
+		"units": [
+			"Nasus",
+			"Swain",
+			"Vladimir",
+			"Morgana"
+		]
+	}
+]
